@@ -1,0 +1,10 @@
+mlflow
+torch
+torchvision
+fastapi
+uvicorn[standard]
+pillow
+numpy
+pandas
+scikit-learn
+python-multipart
